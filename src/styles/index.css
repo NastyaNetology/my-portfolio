@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: global tokens (match your template precisely) */
+:root{
+  --brand: #8a5856;        /* rose as main brand color */
+  --brand-strong: #6d3f3d; /* darker rose for hover/strong */
+  --ink:#0f172a;
+  --body:#111827;
+  --muted:#6b7280;
+  --panel:#f8fafc;
+  --ring:rgba(14,165,233,.35);
+}
